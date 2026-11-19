@@ -2,10 +2,11 @@
 A Java-based inventory and sales management system for small retail businesses in Ghana.
 
 Project Description
-The Small Shop Inventory & Sales Tracker (tentative name- StockWise) is a Java-based application designed to help small retail businesses in Ghana manage and keep track of their inventory, suppliers, and sales transactions.
+ The Small Shop Inventory & Sales Tracker (tentative name- StockWise) is a Java-based application designed to help small retail businesses in Ghana manage and keep track of their inventory, suppliers, and sales transactions.
 The application aims to reduce manual record-keeping errors, prevent stock shortages, and monitor perishable products approaching their expiry dates.
 
-Main Features
+Main Features 
+
 •	Product management
 •	Supplier management
 •	Stock tracking
@@ -17,6 +18,7 @@ Main Features
 •	MySQL database integration
 
 Technologies
+
 •	Java
 •	Object-Oriented Programming
 •	MySQL
@@ -24,6 +26,7 @@ Technologies
 •	Java Collections (HashMap)
 •	JUnit
 •	Git and GitHub
+
 Object-Oriented Programming Concepts
 The project demonstrates:
 •	Encapsulation
@@ -36,7 +39,7 @@ Team Members
 2.	Aaron 
 3.	Selikem 
 4.	Nana Kwame
-5.	
+
 Project Status
 This project is currently in its design and development stages. Features will be added and documented as implementation progresses.
 
